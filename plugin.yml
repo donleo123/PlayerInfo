@@ -1,0 +1,11 @@
+name: PlayerInfo
+version: 0.1
+author: donleo123
+main: me.donleo123.main.Main
+description: Your Info
+  
+commands:
+  playerinfo:
+    description: Main Command.
+    permission: playerinfo.info
+    permission-message: §cYou do not have permission!
