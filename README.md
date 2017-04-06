@@ -2,7 +2,7 @@
 Player and item information
 
 ### Commands & Permissions
-/PlayerInfo - playerinfo.other
+/PlayerInfo - playerinfo.other <br>
 /PlayerInfo-Me - playerinfo.me
 
 ### TOS
