@@ -1,11 +1,15 @@
 name: PlayerInfo
-version: 0.1
+version: 0.2
 author: donleo123
 main: me.donleo123.main.Main
 description: Your Info
   
 commands:
   playerinfo:
-    description: Main Command.
-    permission: playerinfo.info
+    description: Check players info.
+    permission: playerinfo.other
+    permission-message: §cYou do not have permission!
+  playerinfo-me:
+    description: Check your info.
+    permission: playerinfo.me
     permission-message: §cYou do not have permission!
